@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dennisurtubia/apiNode#readme",
   "dependencies": {
+    "@functional-data-structure/finger-tree": "^8.0.0",
     "express": "^4.16.4",
     "mongoose": "^5.4.2",
     "require-dir": "^1.2.0"

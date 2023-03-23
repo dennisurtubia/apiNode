@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@functional-data-structure/finger-tree@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@functional-data-structure/finger-tree/-/finger-tree-8.0.0.tgz#bd6de72341b35d5baaa34d672b2a01f30352ba3b"
+  integrity sha512-uQ+RO0XTKm+M0I3tZah/iLBeizVMYvR3iYeNT4dFfgejlucHWDqGeau2ulM30TUf4P7AwYUQaQeYf22sX1sH3Q==
+
 "@types/bson@*":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@types/bson/-/bson-4.2.0.tgz#a2f71e933ff54b2c3bf267b67fa221e295a33337"
