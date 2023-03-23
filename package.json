@@ -20,7 +20,7 @@
   "homepage": "https://github.com/dennisurtubia/apiNode#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.4.2",
+    "mongoose": "^5.13.15",
     "require-dir": "^1.2.0"
   },
   "devDependencies": {
